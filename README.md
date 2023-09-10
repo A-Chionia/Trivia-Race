@@ -1,4 +1,4 @@
-# Trivia-Race
+# Teams Carnival
 Teams Carnival is an MIT licensed project developed by a team of 6 students as a part of UCL MSc Computer Science program. It comprises 8 Unity-made games integrated into a React application for use within Microsoft Teams meetings. The primary objective of the project was to investigate the functionalities of Microsoft's Live Share SDK for multiplayer game integration within Teams and document the process for the benefit of future developers.  The games demonstrate increasing levels of implementation complexity based on their utilization of Live Share SDK data structures. 
   
 Trivia Race and Snakes and Ladders provide semi-synchronous and asynchronous experience, respectively, through use of a singular Distributed Data Structure. The emphasis was put on providing highly readable and customizable code for beginner developers unfamiliar with Live Share SDK and Fluid Framework. Trivia Race code base exemplifies the most straightforward use of Fluid for score-based games with leader board updated in real-time; Snakes and Ladders demonstrates a framework for development of fully synchronized turn-based board games. 
